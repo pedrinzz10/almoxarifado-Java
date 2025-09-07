@@ -35,7 +35,7 @@ public class Main {
                     String nome = sc.nextLine();
                     System.out.print("Categoria: ");
                     String cat = sc.nextLine();
-                    System.out.print("Unidade de medida: ");
+                    System.out.print("Unidade de medida (ex: qtd, Caixas, L, Kg): ");
                     String un = sc.nextLine();
                     System.out.print("Localização: ");
                     String loc = sc.nextLine();
